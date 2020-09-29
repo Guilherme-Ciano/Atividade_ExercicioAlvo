@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1601399750 source:c:\users\guilherme\desktop\exercicio_23_09_2020\c\alvo\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1601398750 source:c:\users\guilherme\desktop\exercicio_23_09_2020\c\alvo\main-2.c
+	<stdio.h>
+	<stdlib.h>
+
